@@ -34,7 +34,7 @@ resources:
   type: git
   source:
     uri: https://github.com/mcb/gcp-concourse.git
-    branch: master
+    branch: mcb/old-db
 
 - name: ert-concourse
   type: git
